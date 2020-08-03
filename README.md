@@ -4,7 +4,7 @@ Hey! I'm Gabriel, a Computer Science Student from Brazil, currently trying to ge
 
 <img align="right" src="https://emoji.gg/assets/emoji/6375_dancing_neko.gif" width="300">
 
-### Languages:
+**Languages:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
